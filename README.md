@@ -1,0 +1,73 @@
+# DEXCORE – DEXCORE 「Still Alive」 Official Music Video
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I was searching from that day
+The real reason to live
+I ran away from my life
+I’ve got better at lying
+It’s not that I wanna die
+How many decades have passed since I thought
+It’s hard to breathe
+Now I’ve noticed
+I remember
+This is my life
+I can destroy again
+I can find my way
+I’ll put my hands on my heart and listen
+I’m still alive
+When I faced someone’s death
+I realized that you can change something if you
+live
+Let’s start over again
+Cuz’ I’m still alive
+Walking like I’m stoned
+Didn’t care if I got hurt
+I couldn’t wrap my heart with a bandage
+I left the wound as it is
+How do you feel?
+Tell me how do you feel?
+I wanna kill myself
+Now I can speak up
+The path will  continue but it’s up to you
+“Don’t let go my hand”
+Maybe I said it cuz’ I was scared
+I was scared
+I remember
+This is my life
+I can destroy again
+I can find my way
+I’ll put my hands on my heart and listen
+I’m still alive
+When I faced someone’s death
+I realized that you can change something if you
+live
+Let’s start over again
+Cuz’ I’m still alive
+The “Other me” tries to choke me
+It’s hard to fucking breathe
+”It” appears in the night
+Struggling every day
+I’m alone
+No matter how far I go nothing will change
+I can’t understand my self
+Sometimes I wanna kill myself like you
+I’m alone
+Sometimes I wish everything would go away
+I’m miserable
+I don’t know how to ask for “HELP”
+Tell me
+I can destroy again
+Waiting for the rain
+I’ll put my hands on my heart and listen
+I’m still alive
+When I faced someone’s death
+I realized that you can change something if you
+live
+Cuz’ I’m still alive
+But it’s hard to breathe
+I’m still alive
+Cuz’ I’m still alive
+Cuz’ I’m still alive
+```
