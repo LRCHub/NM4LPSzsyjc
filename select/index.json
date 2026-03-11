@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "DEXCORE 「Still Alive」 Official Music Video",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-11T14:02:29.794796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Still Alive",
+      "artist": "Aperture Science Psychoacoustics Laboratory",
+      "has_synced": true,
+      "path": "select/01_Still_Alive_Aperture_Science_Psychoacoustics_Laboratory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Still Alive",
+      "artist": "Aperture Science Psychoacoustics Laboratories",
+      "has_synced": true,
+      "path": "select/02_Still_Alive_Aperture_Science_Psychoacoustics_Laboratories.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Still Alive",
+      "artist": "Aperture Science Psychoacoustic Laboratories",
+      "has_synced": true,
+      "path": "select/03_Still_Alive_Aperture_Science_Psychoacoustic_Laboratories.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Still Alive",
+      "artist": "Jonathan Coulton",
+      "has_synced": true,
+      "path": "select/04_Still_Alive_Jonathan_Coulton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Still Alive (J.C. mix)",
+      "artist": "Aperture Science Psychoacoustics Laboratory",
+      "has_synced": true,
+      "path": "select/05_Still_Alive_(J.C._mix)_Aperture_Science_Psychoacoustics_Laboratory.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Still Alive (J․C․ mix)",
+      "artist": "Aperture Science Psychoacoustic Laboratories",
+      "has_synced": true,
+      "path": "select/06_Still_Alive_(J.C._mix)_Aperture_Science_Psychoacoustic_Laboratories.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Still Alive (J.C. version)",
+      "artist": "Jonathan Coulton",
+      "has_synced": true,
+      "path": "select/07_Still_Alive_(J.C._version)_Jonathan_Coulton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Dream is Still Alive",
+      "artist": "Wilson Phillips",
+      "has_synced": true,
+      "path": "select/08_The_Dream_is_Still_Alive_Wilson_Phillips.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "While I'm Still Alive",
+      "artist": "Ultravox",
+      "has_synced": true,
+      "path": "select/09_While_I'm_Still_Alive_Ultravox.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Dream Is Still Alive",
+      "artist": "Xandria",
+      "has_synced": true,
+      "path": "select/10_The_Dream_Is_Still_Alive_Xandria.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Still Alive",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/11_I'm_Still_Alive_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Still Alive",
+      "artist": "Stratovarius",
+      "has_synced": false,
+      "path": "select/12_I'm_Still_Alive_Stratovarius.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Still Alive",
+      "artist": "Labyrinth",
+      "has_synced": true,
+      "path": "select/13_Still_Alive_Labyrinth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ugly, Fat and Still Alive",
+      "artist": "TANKARD",
+      "has_synced": true,
+      "path": "select/14_Ugly,_Fat_and_Still_Alive_TANKARD.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Still Alive (feat. Sara Quin)",
+      "artist": "Jonathan Coulton feat. Sara Quin",
+      "has_synced": true,
+      "path": "select/15_Still_Alive_(feat._Sara_Quin)_Jonathan_Coulton_feat._Sara_Quin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "She's Still Alive",
+      "artist": "Wishbone Ash",
+      "has_synced": false,
+      "path": "select/16_She's_Still_Alive_Wishbone_Ash.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Still Alive and Well",
+      "artist": "The Four Horsemen",
+      "has_synced": false,
+      "path": "select/17_Still_Alive_and_Well_The_Four_Horsemen.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Susannah's Still Alive",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/18_Susannah's_Still_Alive_The_Kinks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Still Alive",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_Still_Alive_DEXCORE.txt"
+    }
+  ]
+}
